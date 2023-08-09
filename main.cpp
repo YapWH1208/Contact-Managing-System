@@ -1,5 +1,6 @@
 #include <iostream>
 #include "addContact.h"
+#include "viewContact.h"
 #include "person.h"
 #include "addressbook.h"
 using namespace std;
@@ -30,15 +31,20 @@ int main() {
             case 1:
                 addContact(&abs);
                 break;
-            case 2: //viewContact();
+            case 2:
+                viewContact(&abs);
                 break;
-            case 3: //deleteContact();
+            case 3:
+                //deleteContact();
                 break;
-            case 4: //searchContact();
+            case 4:
+                //searchContact();
                 break;
-            case 5: //modifyContact();
+            case 5:
+                //modifyContact();
                 break;
-            case 6: //emptyContact();
+            case 6:
+                //emptyContact();
                 break;
             case 0:
                 cout << "See you next time" << endl;
