@@ -9,4 +9,6 @@ add_executable(ContactManaging main.cpp
         person.h
         addressbook.h
         viewContact.cpp
-        viewContact.h)
+        viewContact.h
+        deleteContact.cpp
+        deleteContact.h)

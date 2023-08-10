@@ -3,6 +3,7 @@
 #include "viewContact.h"
 #include "person.h"
 #include "addressbook.h"
+#include "deleteContact.h"
 using namespace std;
 
 void showMenu(){
@@ -35,7 +36,7 @@ int main() {
                 viewContact(&abs);
                 break;
             case 3:
-                //deleteContact();
+                deleteContact(&abs);
                 break;
             case 4:
                 //searchContact();
