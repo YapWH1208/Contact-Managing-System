@@ -4,6 +4,7 @@
 #include "person.h"
 #include "addressbook.h"
 #include "deleteContact.h"
+#include "searchContact.h"
 using namespace std;
 
 void showMenu(){
@@ -39,7 +40,7 @@ int main() {
                 deleteContact(&abs);
                 break;
             case 4:
-                //searchContact();
+                searchContact(&abs);
                 break;
             case 5:
                 //modifyContact();

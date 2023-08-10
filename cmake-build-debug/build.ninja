@@ -73,6 +73,12 @@ build CMakeFiles/ContactManaging.dir/deleteContact.cpp.obj: CXX_COMPILER__Contac
   OBJECT_DIR = CMakeFiles\ContactManaging.dir
   OBJECT_FILE_DIR = CMakeFiles\ContactManaging.dir
 
+build CMakeFiles/ContactManaging.dir/searchContact.cpp.obj: CXX_COMPILER__ContactManaging_unscanned_Debug C$:/Users/YapWH/Jetbrains/ContactManaging/searchContact.cpp || cmake_object_order_depends_target_ContactManaging
+  DEP_FILE = CMakeFiles\ContactManaging.dir\searchContact.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ContactManaging.dir
+  OBJECT_FILE_DIR = CMakeFiles\ContactManaging.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target ContactManaging
@@ -81,7 +87,7 @@ build CMakeFiles/ContactManaging.dir/deleteContact.cpp.obj: CXX_COMPILER__Contac
 #############################################
 # Link the executable ContactManaging.exe
 
-build ContactManaging.exe: CXX_EXECUTABLE_LINKER__ContactManaging_Debug CMakeFiles/ContactManaging.dir/main.cpp.obj CMakeFiles/ContactManaging.dir/addContact.cpp.obj CMakeFiles/ContactManaging.dir/viewContact.cpp.obj CMakeFiles/ContactManaging.dir/deleteContact.cpp.obj
+build ContactManaging.exe: CXX_EXECUTABLE_LINKER__ContactManaging_Debug CMakeFiles/ContactManaging.dir/main.cpp.obj CMakeFiles/ContactManaging.dir/addContact.cpp.obj CMakeFiles/ContactManaging.dir/viewContact.cpp.obj CMakeFiles/ContactManaging.dir/deleteContact.cpp.obj CMakeFiles/ContactManaging.dir/searchContact.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\ContactManaging.dir
