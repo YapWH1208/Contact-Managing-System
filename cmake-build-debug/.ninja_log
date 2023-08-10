@@ -1,5 +1,5 @@
 # ninja log v5
 40	951	7132789558571979	CMakeFiles/ContactManaging.dir/main.cpp.obj	85016c64b8bd6d6e
-1	308	7133383932233717	build.ninja	210a4e0209645e6c
+1	308	7133388560926713	build.ninja	210a4e0209645e6c
 3	682	7132798683012043	CMakeFiles/ContactManaging.dir/addContact.cpp.obj	b9f773ff85ce7831
 682	878	7132798684867250	ContactManaging.exe	5dacca9f60aa0d47
