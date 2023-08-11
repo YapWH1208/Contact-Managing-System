@@ -133,88 +133,88 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "addContact.cpp",
+			"path" : "lib/addContact.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"path" : "addContact.h",
+			"path" : "lib/addContact.h",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
-			"path" : "person.h",
+			"path" : "lib/person.h",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
-			"path" : "addressbook.h",
+			"path" : "lib/addressbook.h",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "viewContact.cpp",
+			"path" : "lib/viewContact.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"path" : "viewContact.h",
+			"path" : "lib/viewContact.h",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "deleteContact.cpp",
+			"path" : "lib/deleteContact.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"path" : "deleteContact.h",
+			"path" : "lib/deleteContact.h",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "searchContact.cpp",
+			"path" : "lib/searchContact.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"path" : "searchContact.h",
+			"path" : "lib/searchContact.h",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "isExist.cpp",
+			"path" : "lib/isExist.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"path" : "isExist.h",
+			"path" : "lib/isExist.h",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "modifyContact.cpp",
+			"path" : "lib/modifyContact.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"path" : "modifyContact.h",
+			"path" : "lib/modifyContact.h",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "emptyContact.cpp",
+			"path" : "lib/emptyContact.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"path" : "emptyContact.h",
+			"path" : "lib/emptyContact.h",
 			"sourceGroupIndex" : 1
 		}
 	],

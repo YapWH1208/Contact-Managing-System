@@ -1,11 +1,11 @@
 #include <iostream>
-#include "addContact.h"
-#include "viewContact.h"
-#include "addressbook.h"
-#include "deleteContact.h"
-#include "searchContact.h"
-#include "modifyContact.h"
-#include "emptyContact.h"
+#include "lib/addContact.h"
+#include "lib/viewContact.h"
+#include "lib/addressbook.h"
+#include "lib/deleteContact.h"
+#include "lib/searchContact.h"
+#include "lib/modifyContact.h"
+#include "lib/emptyContact.h"
 using namespace std;
 
 void showMenu(){

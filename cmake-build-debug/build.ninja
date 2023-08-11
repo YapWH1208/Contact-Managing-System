@@ -55,47 +55,47 @@ build CMakeFiles/ContactManaging.dir/main.cpp.obj: CXX_COMPILER__ContactManaging
   OBJECT_DIR = CMakeFiles\ContactManaging.dir
   OBJECT_FILE_DIR = CMakeFiles\ContactManaging.dir
 
-build CMakeFiles/ContactManaging.dir/addContact.cpp.obj: CXX_COMPILER__ContactManaging_unscanned_Debug C$:/Users/YapWH/Jetbrains/ContactManaging/addContact.cpp || cmake_object_order_depends_target_ContactManaging
-  DEP_FILE = CMakeFiles\ContactManaging.dir\addContact.cpp.obj.d
+build CMakeFiles/ContactManaging.dir/lib/addContact.cpp.obj: CXX_COMPILER__ContactManaging_unscanned_Debug C$:/Users/YapWH/Jetbrains/ContactManaging/lib/addContact.cpp || cmake_object_order_depends_target_ContactManaging
+  DEP_FILE = CMakeFiles\ContactManaging.dir\lib\addContact.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ContactManaging.dir
-  OBJECT_FILE_DIR = CMakeFiles\ContactManaging.dir
+  OBJECT_FILE_DIR = CMakeFiles\ContactManaging.dir\lib
 
-build CMakeFiles/ContactManaging.dir/viewContact.cpp.obj: CXX_COMPILER__ContactManaging_unscanned_Debug C$:/Users/YapWH/Jetbrains/ContactManaging/viewContact.cpp || cmake_object_order_depends_target_ContactManaging
-  DEP_FILE = CMakeFiles\ContactManaging.dir\viewContact.cpp.obj.d
+build CMakeFiles/ContactManaging.dir/lib/viewContact.cpp.obj: CXX_COMPILER__ContactManaging_unscanned_Debug C$:/Users/YapWH/Jetbrains/ContactManaging/lib/viewContact.cpp || cmake_object_order_depends_target_ContactManaging
+  DEP_FILE = CMakeFiles\ContactManaging.dir\lib\viewContact.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ContactManaging.dir
-  OBJECT_FILE_DIR = CMakeFiles\ContactManaging.dir
+  OBJECT_FILE_DIR = CMakeFiles\ContactManaging.dir\lib
 
-build CMakeFiles/ContactManaging.dir/deleteContact.cpp.obj: CXX_COMPILER__ContactManaging_unscanned_Debug C$:/Users/YapWH/Jetbrains/ContactManaging/deleteContact.cpp || cmake_object_order_depends_target_ContactManaging
-  DEP_FILE = CMakeFiles\ContactManaging.dir\deleteContact.cpp.obj.d
+build CMakeFiles/ContactManaging.dir/lib/deleteContact.cpp.obj: CXX_COMPILER__ContactManaging_unscanned_Debug C$:/Users/YapWH/Jetbrains/ContactManaging/lib/deleteContact.cpp || cmake_object_order_depends_target_ContactManaging
+  DEP_FILE = CMakeFiles\ContactManaging.dir\lib\deleteContact.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ContactManaging.dir
-  OBJECT_FILE_DIR = CMakeFiles\ContactManaging.dir
+  OBJECT_FILE_DIR = CMakeFiles\ContactManaging.dir\lib
 
-build CMakeFiles/ContactManaging.dir/searchContact.cpp.obj: CXX_COMPILER__ContactManaging_unscanned_Debug C$:/Users/YapWH/Jetbrains/ContactManaging/searchContact.cpp || cmake_object_order_depends_target_ContactManaging
-  DEP_FILE = CMakeFiles\ContactManaging.dir\searchContact.cpp.obj.d
+build CMakeFiles/ContactManaging.dir/lib/searchContact.cpp.obj: CXX_COMPILER__ContactManaging_unscanned_Debug C$:/Users/YapWH/Jetbrains/ContactManaging/lib/searchContact.cpp || cmake_object_order_depends_target_ContactManaging
+  DEP_FILE = CMakeFiles\ContactManaging.dir\lib\searchContact.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ContactManaging.dir
-  OBJECT_FILE_DIR = CMakeFiles\ContactManaging.dir
+  OBJECT_FILE_DIR = CMakeFiles\ContactManaging.dir\lib
 
-build CMakeFiles/ContactManaging.dir/isExist.cpp.obj: CXX_COMPILER__ContactManaging_unscanned_Debug C$:/Users/YapWH/Jetbrains/ContactManaging/isExist.cpp || cmake_object_order_depends_target_ContactManaging
-  DEP_FILE = CMakeFiles\ContactManaging.dir\isExist.cpp.obj.d
+build CMakeFiles/ContactManaging.dir/lib/isExist.cpp.obj: CXX_COMPILER__ContactManaging_unscanned_Debug C$:/Users/YapWH/Jetbrains/ContactManaging/lib/isExist.cpp || cmake_object_order_depends_target_ContactManaging
+  DEP_FILE = CMakeFiles\ContactManaging.dir\lib\isExist.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ContactManaging.dir
-  OBJECT_FILE_DIR = CMakeFiles\ContactManaging.dir
+  OBJECT_FILE_DIR = CMakeFiles\ContactManaging.dir\lib
 
-build CMakeFiles/ContactManaging.dir/modifyContact.cpp.obj: CXX_COMPILER__ContactManaging_unscanned_Debug C$:/Users/YapWH/Jetbrains/ContactManaging/modifyContact.cpp || cmake_object_order_depends_target_ContactManaging
-  DEP_FILE = CMakeFiles\ContactManaging.dir\modifyContact.cpp.obj.d
+build CMakeFiles/ContactManaging.dir/lib/modifyContact.cpp.obj: CXX_COMPILER__ContactManaging_unscanned_Debug C$:/Users/YapWH/Jetbrains/ContactManaging/lib/modifyContact.cpp || cmake_object_order_depends_target_ContactManaging
+  DEP_FILE = CMakeFiles\ContactManaging.dir\lib\modifyContact.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ContactManaging.dir
-  OBJECT_FILE_DIR = CMakeFiles\ContactManaging.dir
+  OBJECT_FILE_DIR = CMakeFiles\ContactManaging.dir\lib
 
-build CMakeFiles/ContactManaging.dir/emptyContact.cpp.obj: CXX_COMPILER__ContactManaging_unscanned_Debug C$:/Users/YapWH/Jetbrains/ContactManaging/emptyContact.cpp || cmake_object_order_depends_target_ContactManaging
-  DEP_FILE = CMakeFiles\ContactManaging.dir\emptyContact.cpp.obj.d
+build CMakeFiles/ContactManaging.dir/lib/emptyContact.cpp.obj: CXX_COMPILER__ContactManaging_unscanned_Debug C$:/Users/YapWH/Jetbrains/ContactManaging/lib/emptyContact.cpp || cmake_object_order_depends_target_ContactManaging
+  DEP_FILE = CMakeFiles\ContactManaging.dir\lib\emptyContact.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ContactManaging.dir
-  OBJECT_FILE_DIR = CMakeFiles\ContactManaging.dir
+  OBJECT_FILE_DIR = CMakeFiles\ContactManaging.dir\lib
 
 
 # =============================================================================
@@ -105,7 +105,7 @@ build CMakeFiles/ContactManaging.dir/emptyContact.cpp.obj: CXX_COMPILER__Contact
 #############################################
 # Link the executable ContactManaging.exe
 
-build ContactManaging.exe: CXX_EXECUTABLE_LINKER__ContactManaging_Debug CMakeFiles/ContactManaging.dir/main.cpp.obj CMakeFiles/ContactManaging.dir/addContact.cpp.obj CMakeFiles/ContactManaging.dir/viewContact.cpp.obj CMakeFiles/ContactManaging.dir/deleteContact.cpp.obj CMakeFiles/ContactManaging.dir/searchContact.cpp.obj CMakeFiles/ContactManaging.dir/isExist.cpp.obj CMakeFiles/ContactManaging.dir/modifyContact.cpp.obj CMakeFiles/ContactManaging.dir/emptyContact.cpp.obj
+build ContactManaging.exe: CXX_EXECUTABLE_LINKER__ContactManaging_Debug CMakeFiles/ContactManaging.dir/main.cpp.obj CMakeFiles/ContactManaging.dir/lib/addContact.cpp.obj CMakeFiles/ContactManaging.dir/lib/viewContact.cpp.obj CMakeFiles/ContactManaging.dir/lib/deleteContact.cpp.obj CMakeFiles/ContactManaging.dir/lib/searchContact.cpp.obj CMakeFiles/ContactManaging.dir/lib/isExist.cpp.obj CMakeFiles/ContactManaging.dir/lib/modifyContact.cpp.obj CMakeFiles/ContactManaging.dir/lib/emptyContact.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\ContactManaging.dir
