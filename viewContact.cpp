@@ -17,5 +17,5 @@ void viewContact(addressbook *abs){
     }
 
     system("Pause");
-    system("cls")
+    system("cls");
 }
