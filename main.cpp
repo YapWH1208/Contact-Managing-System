@@ -5,6 +5,7 @@
 #include "deleteContact.h"
 #include "searchContact.h"
 #include "modifyContact.h"
+#include "emptyContact.h"
 using namespace std;
 
 void showMenu(){
@@ -46,7 +47,7 @@ int main() {
                 modifyContact(&abs);
                 break;
             case 6:
-                //emptyContact();
+                emptyContact(&abs);
                 break;
             case 0:
                 cout << "See you next time" << endl;

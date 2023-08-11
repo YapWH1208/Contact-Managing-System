@@ -17,4 +17,6 @@ add_executable(ContactManaging main.cpp
         isExist.cpp
         isExist.h
         modifyContact.cpp
-        modifyContact.h)
+        modifyContact.h
+        emptyContact.cpp
+        emptyContact.h)
