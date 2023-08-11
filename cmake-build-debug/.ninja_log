@@ -39,3 +39,14 @@
 616	803	7134313898533893	ContactManaging.exe	d375da1ec0993bc9
 3	585	7134314238080415	CMakeFiles/ContactManaging.dir/lib/viewContact.cpp.obj	990b7fe29e8c670
 585	748	7134314239670366	ContactManaging.exe	d375da1ec0993bc9
+2	607	7134316155035908	CMakeFiles/ContactManaging.dir/main.cpp.obj	85016c64b8bd6d6e
+39	877	7134316157741808	CMakeFiles/ContactManaging.dir/lib/modifyContact.cpp.obj	35be1507e7290660
+877	1037	7134316159304815	ContactManaging.exe	d375da1ec0993bc9
+2	612	7134317344374447	CMakeFiles/ContactManaging.dir/main.cpp.obj	85016c64b8bd6d6e
+612	780	7134317346019110	ContactManaging.exe	d375da1ec0993bc9
+3	587	7134318960548208	CMakeFiles/ContactManaging.dir/main.cpp.obj	85016c64b8bd6d6e
+587	750	7134318962152521	ContactManaging.exe	d375da1ec0993bc9
+3	630	7134319835093494	CMakeFiles/ContactManaging.dir/main.cpp.obj	85016c64b8bd6d6e
+630	801	7134319836765516	ContactManaging.exe	d375da1ec0993bc9
+2	623	7134351911240614	CMakeFiles/ContactManaging.dir/main.cpp.obj	85016c64b8bd6d6e
+623	804	7134351913036742	ContactManaging.exe	d375da1ec0993bc9
