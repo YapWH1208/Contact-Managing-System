@@ -43,9 +43,9 @@ void addContact(addressbook *abs){
 
         // Address
         cout << "Enter Address: " << endl;
-        int address;
+        string address;
         cin >> address;
-        abs->personArray[abs->size].address = to_string(address);
+        abs->personArray[abs->size].address = address;
 
         // Update contact list size
         abs->size++;

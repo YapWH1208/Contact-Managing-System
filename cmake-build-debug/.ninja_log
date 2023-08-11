@@ -1,5 +1,11 @@
 # ninja log v5
 40	951	7132789558571979	CMakeFiles/ContactManaging.dir/main.cpp.obj	85016c64b8bd6d6e
-1	308	7133388560926713	build.ninja	210a4e0209645e6c
+1	308	7134248887054623	build.ninja	210a4e0209645e6c
 3	682	7132798683012043	CMakeFiles/ContactManaging.dir/addContact.cpp.obj	b9f773ff85ce7831
 682	878	7132798684867250	ContactManaging.exe	5dacca9f60aa0d47
+3	941	7134271784605743	CMakeFiles/ContactManaging.dir/addContact.cpp.obj	b9f773ff85ce7831
+239	1063	7134271785832606	CMakeFiles/ContactManaging.dir/isExist.cpp.obj	1c981756079b3fd4
+150	1814	7134271793342236	CMakeFiles/ContactManaging.dir/searchContact.cpp.obj	90edd2d29da4a1de
+195	2135	7134271796548303	CMakeFiles/ContactManaging.dir/deleteContact.cpp.obj	cad45d2622e80549
+100	2466	7134271799861150	CMakeFiles/ContactManaging.dir/main.cpp.obj	85016c64b8bd6d6e
+41	928	7134296914412214	CMakeFiles/ContactManaging.dir/modifyContact.cpp.obj	63216f87cd0fe188

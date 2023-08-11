@@ -4,6 +4,7 @@
 #include "addressbook.h"
 #include "deleteContact.h"
 #include "searchContact.h"
+#include "modifyContact.h"
 using namespace std;
 
 void showMenu(){
@@ -42,7 +43,7 @@ int main() {
                 searchContact(&abs);
                 break;
             case 5:
-                //modifyContact();
+                modifyContact(&abs);
                 break;
             case 6:
                 //emptyContact();
@@ -51,7 +52,6 @@ int main() {
                 cout << "See you next time" << endl;
                 system("Pause");
                 return 0;
-                break;
             default:
                 break;
         }
