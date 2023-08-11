@@ -12,7 +12,7 @@ void viewContact(addressbook *abs){
             cout << "Sex: " << abs->personArray[i].sex << endl;
             cout << "Age: " << abs->personArray[i].age << endl;
             cout << "Phone Number: " << abs->personArray[i].phone_num << endl;
-            cout << "Address" << abs->personArray[i].address << endl;
+            cout << "Address: " << abs->personArray[i].address << endl;
         }
     }
 
