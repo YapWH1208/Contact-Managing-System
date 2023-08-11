@@ -15,7 +15,4 @@ void viewContact(addressbook *abs){
             cout << "Address: " << abs->personArray[i].address << endl;
         }
     }
-
-    system("Pause");
-    system("cls");
 }

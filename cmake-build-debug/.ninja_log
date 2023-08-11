@@ -35,3 +35,5 @@
 160	1815	7134312667206564	CMakeFiles/ContactManaging.dir/lib/modifyContact.cpp.obj	35be1507e7290660
 199	2104	7134312670090733	CMakeFiles/ContactManaging.dir/lib/emptyContact.cpp.obj	4f3f5a546acda593
 2104	2270	7134312671719419	ContactManaging.exe	d375da1ec0993bc9
+2	616	7134313896694293	CMakeFiles/ContactManaging.dir/main.cpp.obj	85016c64b8bd6d6e
+616	803	7134313898533893	ContactManaging.exe	d375da1ec0993bc9
