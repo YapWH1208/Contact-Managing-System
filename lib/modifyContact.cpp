@@ -6,6 +6,7 @@
 using namespace std;
 
 void modifyMenu(){
+    cout << "Select data to be modify" << endl;
     cout << "1. Name" << endl;
     cout << "2. Sex" << endl;
     cout << "3. Age" << endl;
