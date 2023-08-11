@@ -51,8 +51,5 @@ void addContact(addressbook *abs){
         abs->size++;
 
         cout << "Added" << endl;
-
-        system("Pause");
-        system("cls");
     }
 }

@@ -21,7 +21,4 @@ void searchContact(addressbook *abs){
     else{
         cout << "Name not found" << endl;
     }
-
-    system("Pause");
-    system("cls");
 }

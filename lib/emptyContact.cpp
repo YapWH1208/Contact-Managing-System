@@ -7,6 +7,4 @@ using namespace std;
 void emptyContact(addressbook *abs){
     abs->size = 0;
     cout << "Contact emptied" << endl;
-    system("Pause");
-    system("cls");
 }

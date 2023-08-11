@@ -20,6 +20,4 @@ void deleteContact(addressbook *abs){
     else{
         cout << "Name not found" << endl;
     }
-    system("Pause");
-    system("cls");
 }

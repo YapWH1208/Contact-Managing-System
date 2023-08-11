@@ -54,10 +54,8 @@ int main() {
                 system("Pause");
                 return 0;
             default:
+                cout << "Invalid selection" << endl;
                 break;
         }
     }
-
-    system("Pause");
-    return 0;
 }
